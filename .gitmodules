@@ -1,0 +1,6 @@
+[submodule "flycheck-tla"]
+	path = flycheck-tla
+	url = https://github.com/cipher1024/flycheck-tla
+[submodule "tla-mode"]
+	path = tla-mode
+	url = https://github.com/cipher1024/tla-mode
